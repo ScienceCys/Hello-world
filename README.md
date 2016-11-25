@@ -1,2 +1,7 @@
-# Hello-world
-试试github
+#include<stdio.h>
+int main()
+ {
+ printf("Hello,world");
+ return 0;
+ }
+ 
